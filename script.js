@@ -9,7 +9,7 @@
     direction: 'horizontal',
     loop: true,
     // delay between transitions in ms
-    autoplay: 5000,
+    autoplay: 10000,
     autoplayStopOnLast: false, // loop false also
     // If we need pagination
     pagination: '.swiper-pagination',
