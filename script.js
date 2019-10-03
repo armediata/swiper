@@ -1,6 +1,6 @@
      
   var mySwiper = new Swiper ('.swiper-container', {
-    speed: 400,
+    speed: 800,
     spaceBetween: 20,
     initialSlide: 0,
     //truewrapper adoptsheight of active slide
