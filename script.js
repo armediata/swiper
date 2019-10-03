@@ -24,9 +24,9 @@
     // "slide", "fade", "cube", "coverflow" or "flip"
     effect: 'slide',
     // Distance between slides in px.
-    spaceBetween: 60,
+    spaceBetween: 50,
     //
-    slidesPerView: 2,
+    slidesPerView: 4,
     //
     centeredSlides: true,
     //
