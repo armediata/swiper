@@ -17,5 +17,5 @@
 
 }
 .swiper-button-next, .swiper-container-rtl .swiper-button-prev {
-background-image:url('https://cdn.jsdelivr.net/gh/armediata/images@dcff32b4ebca54ed5e9339cc48241974454e1095/right.svg');
+background-image:url('https://cdn.jsdelivr.net/gh/armediata/images@dcff32b4ebca54ed5e9339cc48241974454e1095/right.svg')!important;
 }
