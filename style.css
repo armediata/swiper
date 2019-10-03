@@ -1,21 +1,18 @@
 .swiper-container {
-    width: 100%;
-    height: auto;
+    width: 800px;
+    height: 200px;
  
 } 
 
 .swiper-slide {
+   background-color: purple;
 
-width:auto!important;
 }
 
 .blue {
-
+  background-color: blue;
 }
 
 .red {
-
-}
-.swiper-button-next, .swiper-container-rtl .swiper-button-prev {
-background-image:url('https://cdn.jsdelivr.net/gh/armediata/images@dcff32b4ebca54ed5e9339cc48241974454e1095/right.svg')!important;
+  background-color: red;
 }

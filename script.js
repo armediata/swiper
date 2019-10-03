@@ -1,7 +1,7 @@
      
   var mySwiper = new Swiper ('.swiper-container', {
-    speed: 800,
-    spaceBetween: 20,
+    speed: 400,
+    spaceBetween: 100,
     initialSlide: 0,
     //truewrapper adoptsheight of active slide
     autoHeight: false,
@@ -9,7 +9,7 @@
     direction: 'horizontal',
     loop: true,
     // delay between transitions in ms
-    autoplay: 10000,
+    autoplay: 5000,
     autoplayStopOnLast: false, // loop false also
     // If we need pagination
     pagination: '.swiper-pagination',
@@ -24,9 +24,9 @@
     // "slide", "fade", "cube", "coverflow" or "flip"
     effect: 'slide',
     // Distance between slides in px.
-    spaceBetween: 20,
+    spaceBetween: 60,
     //
-    slidesPerView: 1,
+    slidesPerView: 2,
     //
     centeredSlides: true,
     //
