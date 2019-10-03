@@ -1,7 +1,7 @@
      
   var mySwiper = new Swiper ('.swiper-container', {
     speed: 400,
-    spaceBetween: 100,
+    spaceBetween: 20,
     initialSlide: 0,
     //truewrapper adoptsheight of active slide
     autoHeight: false,
@@ -24,7 +24,7 @@
     // "slide", "fade", "cube", "coverflow" or "flip"
     effect: 'slide',
     // Distance between slides in px.
-    spaceBetween: 60,
+    spaceBetween: 20,
     //
     slidesPerView: 2,
     //
