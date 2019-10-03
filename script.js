@@ -26,7 +26,7 @@
     // Distance between slides in px.
     spaceBetween: 20,
     //
-    slidesPerView: 2,
+    slidesPerView: 0,
     //
     centeredSlides: true,
     //
